@@ -83,7 +83,6 @@ body {
     left: 0;
     transition: all 0.8s;
     backface-visibility: hidden;
-    background-size: 192rem 108rem;
     background-repeat: no-repeat;
     overflow: hidden; }
     .box__side--front {
